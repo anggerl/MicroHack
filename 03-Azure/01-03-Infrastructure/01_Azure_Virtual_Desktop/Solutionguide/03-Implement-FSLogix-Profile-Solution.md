@@ -134,7 +134,7 @@ Click on **Review + assign**
 - Arguments: type the UNC Path of your fileshare, e. g. \\fslogixprofilefs.file.core.windows.net\fslogixfs
 - Click on **Review + create**
 
-Now FSLogix will be set up using the Azure File share for user profiles. You should now be able to test with both user accounts, if the profile is created correctly on your fileshare.
+Now FSLogix will be set up using the Azure File share for user profiles. You should now be able to test with both user accounts, if the profile is created correctly on your fileshare
 
 
 
